@@ -1,7 +1,9 @@
 README.MD
 
 Challenges
-Challenge 1: Converting 12-hour time to 24-hour time
+
+Challe
+
 Task: Convert a 12-hour time to 24-hour time format.
 
 Input:
